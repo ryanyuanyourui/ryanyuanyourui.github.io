@@ -1,3 +1,3 @@
-# ryanyuanyourui.github.io
+Just a simple domain for an OIer.
 
-Almost everything for one's main page. [English edition]
+Current: nullptr.
